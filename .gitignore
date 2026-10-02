@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.log
+*.csv
+*.txt
+.DS_Store
+Thumbs.db
+output/
+reports/
