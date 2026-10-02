@@ -42,7 +42,13 @@
 
 🚧 Work in Progress
 
-目前先整理檢查流程與需求，後續預計使用 PowerShell 實作。
+已完成第一版 Prototype
+已完成:
+- Hostname
+- Windows OS / Version
+- RAM
+- Disk Size / Free Space
+- Disk Free Spcae PASS / WARN / FAIL
 
 
 此 Repository 為個人練習用途
